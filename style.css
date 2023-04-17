@@ -141,7 +141,7 @@ body {
 
 @media screen and (max-width: 767px) {
     body {
-        min-widht: 100%;
+        min-width: 100%;
     }
 
     .box-profile {
@@ -174,7 +174,7 @@ body {
     }
 
     .works-list li {
-        max-width: 100%
+        max-width: 100%;
         float: none;
         margin-right: 0;
         margin-bottom: 30px;
